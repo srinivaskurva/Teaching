@@ -1,0 +1,9 @@
+/* p {
+    color: green;
+    font-size: 35px;
+    font-weight: bold;
+} */
+
+.list3 .inner-para, .list4 .inner-para, .list5 .inner-para {
+    background-color: pink;
+}
